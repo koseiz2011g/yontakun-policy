@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>よんたくん プライバシーポリシー</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans JP", sans-serif;
+      line-height: 1.8;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+    }
+    h1 {
+      border-bottom: 2px solid #eee;
+      padding-bottom: 10px;
+    }
+    h2 {
+      margin-top: 30px;
+    }
+    hr {
+      margin: 30px 0;
+    }
+  </style>
+</head>
+<body>
+
+<h1>よんたくん プライバシーポリシー</h1>
+
+<p>本アプリ「よんたくん」（以下、「本アプリ」といいます）は、ユーザーのプライバシーを尊重し、個人情報の保護に努めます。</p>
+
+<hr>
+
+<h2>1. 取得する情報</h2>
+<p>本アプリでは、現時点において、ユーザーの個人情報（氏名、メールアドレス等）を取得することはありません。</p>
+
+<h2>2. 利用目的</h2>
+<p>本アプリは、個人情報を取得しないため、現時点において個人情報の利用は行いません。</p>
+
+<h2>3. 第三者提供</h2>
+<p>本アプリは、ユーザーの個人情報を第三者に提供することはありません。</p>
+
+<h2>4. アクセス解析ツール</h2>
+<p>本アプリでは、現時点においてアクセス解析ツールを使用しておりません。</p>
+
+<h2>5. 広告について</h2>
+<p>本アプリでは、現時点において広告配信を行っておりません。</p>
+<p>今後、広告配信サービスとしてGoogle AdMobを利用する可能性があります。</p>
+<p>その場合、広告配信のために、広告識別子（Advertising ID等）、端末情報、利用状況に関する情報が自動的に収集されることがあります。</p>
+<p>なお、広告導入時には本ポリシーを改訂し、詳細を明示いたします。</p>
+
+<h2>6. お問い合わせ</h2>
+<p>本ポリシーに関するお問い合わせは、以下までお願いいたします。</p>
+<p>X（旧Twitter）：<a href="https://x.com/ManYoGakusha" target="_blank">https://x.com/ManYoGakusha</a></p>
+
+<h2>7. 改訂について</h2>
+<p>本ポリシーの内容は、必要に応じて変更することがあります。重要な変更がある場合は、本ページにて通知します。</p>
+
+<hr>
+
+<p>制定日：2026年5月</p>
+
+</body>
+</html>
